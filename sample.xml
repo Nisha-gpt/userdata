@@ -1,0 +1,22 @@
+<Users>
+  <User>
+    <Name>Nisha Murali</Name>
+    <Age>21</Age>
+    <City>Bangalore</City>
+    <Nationality>Indian</Nationality>
+    <Contact>
+      <Phone>+1234567890</Phone>
+      <Email>its.nish.0709@gmail.com</Email>
+    </Contact>
+  </User>
+  <User>
+    <Name>Max</Name>
+    <Age>20</Age>
+    <City>Vilnius</City>
+    <Nationality>Lithuanian</Nationality>
+    <Contact>
+      <Phone>+370123456</Phone>
+      <Email>max@example.com</Email>
+    </Contact>
+  </User>
+</Users>
