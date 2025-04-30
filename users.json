@@ -1,6 +1,6 @@
 [
   {
-    "Name":"Nisha",
+    "Name": "Nisha",
     "Age": 21,
     "City": "Bangalore",
     "Nationality": "Indian",
@@ -17,6 +17,16 @@
     "Contact": {
       "Phone": "+370123456",
       "Email": "max@example.com"
+    }
+  },
+  {
+    "Name": "Nisha",
+    "Age": 21,
+    "City": "Bangalore",
+    "Nationality": "Indian",
+    "Contact": {
+      "Phone": "+123456789",
+      "Email": "nil@gmail.com"
     }
   }
 ]

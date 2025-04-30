@@ -13,3 +13,6 @@ C:\Users\saman\Desktop\userdata\obj\Debug\net9.0\refint\userdata.dll
 C:\Users\saman\Desktop\userdata\obj\Debug\net9.0\userdata.pdb
 C:\Users\saman\Desktop\userdata\obj\Debug\net9.0\userdata.genruntimeconfig.cache
 C:\Users\saman\Desktop\userdata\obj\Debug\net9.0\ref\userdata.dll
+C:\Users\saman\Desktop\userdata\obj\Debug\net9.0\userdata.csproj.AssemblyReference.cache
+C:\Users\saman\Desktop\userdata\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\saman\Desktop\userdata\obj\Debug\net9.0\userdata.csproj.Up2Date
