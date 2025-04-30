@@ -1,4 +1,4 @@
-namespace UserDataProject.Models
+namespace userdata.Models
 {
     public class User
     {
@@ -9,3 +9,5 @@ namespace UserDataProject.Models
         public ContactDetails Contact { get; set; }
     }
 }
+
+

@@ -1,4 +1,4 @@
-namespace UserDataProject.Models
+namespace userdata.Models
 {
     public class ContactDetails
     {
