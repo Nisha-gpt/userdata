@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Nisha Murali",
+    "Age": 21,
+    "City": "Banaglore",
+    "Nationality": "Indian",
+    "Contact": {
+      "Phone": "+123456789",
+      "Email": "its.nish.0709@gmail.com"
+    }
+  },
+  {
+    "Name": "Max",
+    "Age": 20,
+    "City": "Vilnius",
+    "Nationality": "Lithuanian",
+    "Contact": {
+      "Phone": "+370123456",
+      "Email": "max@example.com"
+    }
+  }
+]
