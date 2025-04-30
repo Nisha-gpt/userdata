@@ -9,5 +9,3 @@ namespace userdata.Models
         public ContactDetails Contact { get; set; }
     }
 }
-
-
