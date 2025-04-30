@@ -6,7 +6,7 @@ namespace userdata
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("✅ V1: Project initialized successfully.");
+            Console.WriteLine("✅ V1: UserData project initialized.");
         }
     }
 }
